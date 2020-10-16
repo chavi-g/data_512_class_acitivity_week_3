@@ -2,12 +2,13 @@
 
 ## Assessing bias in the Wikipedia Talk Corpus
 
-The objective of this code is to analyse bias in the Toxicity data annotated from the Wikimedia Talk Corpus.
+The objective of this code is to analyse bias in the Toxicity data annotated from the Wikimedia Talk Corpus. The main document with the analysis can be found [here](https://docs.google.com/document/d/1ILZgf6DjLGt0C3EwsSzOzrNcNV-FV85AwECKLFR5dfA/edit?usp=sharing).
 
 
 
 ## Data Source
 
+Wulczyn, Ellery; Thain, Nithum; Dixon, Lucas (2016): Wikipedia Detox. figshare. [doi.org/10.6084/m9.figshare.4054689](doi.org/10.6084/m9.figshare.4054689)
 
 The data set contains comments from 2001-2016 that were scored on their level of toxicity by approximately 10 different crowdworkers.
 
@@ -25,6 +26,9 @@ In addition, the dataset contains information about the worker's demographics.
 The Toxicity dataset can be downloaded from [The Personal Attacks Figshare dataset](https://figshare.com/articles/Wikipedia_Talk_Labels_Personal_Attacks/4054689), and the schema can be found in the [dataset docummentation page](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release#Toxicity).
 
 
+
+## Analysis Files
+ * data_statement_exploration.ipynb: Has the code necessary to obtain the numbers and figures for the Data Statement.
 
 ## License
 
