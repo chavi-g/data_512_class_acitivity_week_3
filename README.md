@@ -20,6 +20,12 @@ The toxicity score is defined as:
 | 1              | Healthy Contribution (A reasonable, civil, or polite contribution that is somewhat likely to make you want to continue a discussion)         |
 | 2              | Very Healthy Contribution (A very polite, thoughtful, or helpful contribution that is very likely to make you want to continue a discussion) |
 
+In addition, the dataset contains information about the worker's demographics.
 
 The Toxicity dataset can be downloaded from [The Personal Attacks Figshare dataset](https://figshare.com/articles/Wikipedia_Talk_Labels_Personal_Attacks/4054689), and the schema can be found in the [dataset docummentation page](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release#Toxicity).
 
+
+
+## License
+
+Plese refer to the project [MIT license](LICENSE) for more details.
