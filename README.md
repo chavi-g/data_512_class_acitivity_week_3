@@ -29,6 +29,7 @@ The Toxicity dataset can be downloaded from [The Personal Attacks Figshare datas
 
 ## Analysis Files
  * data_statement_exploration.ipynb: Has the code necessary to obtain the numbers and figures for the Data Statement.
+ * analysis_of_worker_demographics.ipynb: Has the code with analysis for demographics of the crowdworkers who annotated the comments
 
 ## License
 
